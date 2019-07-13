@@ -1,0 +1,13 @@
+
+.advice h4{
+font-family: 'Roboto', sans-serif;
+font-size: 48px;
+font-weight: 700;
+color: #8878b1;
+}
+.advice p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  text-align: justify;
+  color: #4d4d4d;
+}
